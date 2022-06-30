@@ -30,6 +30,8 @@ switch($edad)
     case 48:
         echo "El doble de tu edad";
         break;
+    default:
+        echo "Valor no valido";
 }
 
 ?>
